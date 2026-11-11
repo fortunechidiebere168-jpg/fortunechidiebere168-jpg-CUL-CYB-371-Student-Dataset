@@ -1,5 +1,11 @@
 # CUL-CYB 371 – Student Dataset
 
+# My Details 
+Name: Fortune Chidiebere
+Matric Number: 24/14205
+Institution: Caleb University
+Course: CUL-CYB 371
+
 ## Project description
 This project contains a fictional dataset of 20 students. It was created with Python for the Data Mining and Data Warehousing assignment.
 
